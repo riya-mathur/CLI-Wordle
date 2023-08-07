@@ -1,2 +1,2 @@
 # Wordle-Project
-Java-based console wordle game
+Java-based console Wordle game

@@ -1,4 +1,4 @@
-# Wordle-Project
+# CTI-Wordle
 Java-based console Wordle game
 
 Requirements: This program is written in Java, so make sure you have a Java runtime environment installed on your computer to run the game.
